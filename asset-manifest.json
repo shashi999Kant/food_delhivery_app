@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/food_delhivery_app/static/css/main.f0609d99.css",
+    "main.js": "/food_delhivery_app/static/js/main.0fce2802.js",
+    "static/js/787.41a206eb.chunk.js": "/food_delhivery_app/static/js/787.41a206eb.chunk.js",
+    "static/media/meals.jpg": "/food_delhivery_app/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/food_delhivery_app/index.html",
+    "main.f0609d99.css.map": "/food_delhivery_app/static/css/main.f0609d99.css.map",
+    "main.0fce2802.js.map": "/food_delhivery_app/static/js/main.0fce2802.js.map",
+    "787.41a206eb.chunk.js.map": "/food_delhivery_app/static/js/787.41a206eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0609d99.css",
+    "static/js/main.0fce2802.js"
+  ]
+}
